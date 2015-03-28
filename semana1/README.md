@@ -11,6 +11,7 @@ Neste sábado que é o segundo encontro, vou commitar a minha versão da calcula
 
 Seguem dois links de referência que vocês podem se basear para aprender sobre o Git:
 
+<<<<<<< HEAD
 -   [Help do próprio git (Em Inglês)](https://help.github.com/)
 Obs:Usem o "Set Up a Git" e "Create a Repo"
 -   [Configuração Inicial do Git (Em português)](http://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git).
@@ -23,4 +24,18 @@ Dica: Eu recomendaria os passos na seguinte ordem:
   4.  Commit;
 
 Dúvidas me mandem por e-mail, é nóix que tá.
+=======
+[Help do próprio git (Em Inglês)](https://help.github.com/)
+Obs:Usem o "Set Up a Git" e "Create a Repo"
+
+[Configuração Inicial do Git (Em português)](http://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git).
+[GIT Essencial(Em português](http://git-scm.com/book/pt-br/v1/Git-Essencial)
+
+Dica: Eu recomendaria os passos na seguinte ordem:
+1. Criem o repositório pelo github;
+2. Façam o gitClone para o seu workspace;
+3. Adicione os arquivos da calculadora;
+4. Commit;
+
+>>>>>>> b5735fdd0d2a100b2ac9edbf3c6bcadb39f53c3c
 
