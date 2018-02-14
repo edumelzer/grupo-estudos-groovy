@@ -1,4 +1,4 @@
-Basic Griffon Swing/Groovy project
+Basic Griffon Swing calculator project
 ----------------------------------
 
 You have just created a basic Griffon application with Swing as UI toolkit
